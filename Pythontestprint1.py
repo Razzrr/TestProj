@@ -129,7 +129,7 @@ extensions_folders = {
     '.part': "C:\\Users\\Razzrr\\Internet",
     '.php': "C:\\Users\\Razzrr\\Internet",
     '.rss': "C:\\Users\\Razzrr\\Internet",
-	'.xhtml': "C:\\Users\\Razzrr\\Internet",
+    '.xhtml': "C:\\Users\\Razzrr\\Internet",
 #Compressed
     '.7z': "C:\\Users\\Razzrr\\Compressed",
     '.arj': "C:\\Users\\Razzrr\\Compressed",
